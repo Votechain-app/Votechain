@@ -1,3 +1,9 @@
 # Votechain
 
-Block Chain Voting. Bringing Athens back to the the modern world.
+We solve the two major problems of online elections - end to end verifiability and the secret ballot
+
+You can find us here:
+
+https://votechain.app
+
+
